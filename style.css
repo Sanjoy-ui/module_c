@@ -4,14 +4,6 @@
     box-sizing: border-box;
 }
 
-
-
-.nav-logo {
-
-    display: flex;
-    gap: 10px;
-}
-
 .navigation {
     position: fixed;
     top: 0;
